@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say voice="alice">Laude ke Baal</Say>
+<Say voice="alice">Hi Boss</Say>
 <Dial record="true">
-<Conference>Chutiya</Conference>
+<Conference>Boss</Conference>
 </Dial>
 </Response>
